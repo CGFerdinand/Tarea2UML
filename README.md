@@ -1,6 +1,7 @@
 # Tarea 2: Diagramas de clase en UML
 
-## Descripción: Este proyecto tiene como proposito repasar la creación de los diagramas UML de los codigos relacionados con una veterinaria donde hay perros y gatos ademas de caracteristicas como ser domesticables o ser un perro guardian, para ello se utiliza una clase abstracta animal con las clases perro y gato, la extensión de perro guardian y la interfaz de ser domesticable.
+## Descripción:
+Este proyecto tiene como proposito repasar la creación de los diagramas UML de los codigos relacionados con una veterinaria donde hay perros y gatos ademas de caracteristicas como ser domesticables o ser un perro guardian, para ello se utiliza una clase abstracta animal con las clases perro y gato, la extensión de perro guardian y la interfaz de ser domesticable.
 
 ### Licencia: MIT License
 
